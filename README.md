@@ -144,7 +144,7 @@ Please use the [issue tracker](https://github.com/naman-upreti/play-store-analyt
 ---
 
 <div align="center">
-  <sub>Built with ❤︎ by Naman | Last Updated: June 2023</sub>
+  <sub>Built with ❤︎ by Naman</sub>
 </div>
 # GooglePlay-Analysis
 #
